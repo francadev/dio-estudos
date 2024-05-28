@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-=======
-# não permite valores negativos, todos depósitos devem ser armazenados em uma variável e exibidos no extrato
-# o sistema deve permitir até 3 saques diários de no máximo 500.
-# O objetivo é implementar três operações essenciais: depósito, saque e extrato.
-# no extrato deve ter o tipo e o valor da operação
-
->>>>>>> 0d9ca4e (feat: Criando um Sistema Bancário com Python)
 menu = """
 Selecione a opção desejada:
 
